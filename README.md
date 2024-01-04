@@ -1,6 +1,6 @@
-# TITLE PROYECT
+# KNN Neighbors
 
-explanation of the github project
+This repository contains a movie recommendation system based on the k-Nearest Neighbors (KNN) algorithm. The goal of this project is to provide users with personalized movie recommendations by identifying movies similar to their preferences.
 
 ## Content
 
@@ -12,10 +12,7 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
-
-## Examples
-
+Enter in `src` folder and explore the jupyter notebooks
 
 
 ## Project Structure
